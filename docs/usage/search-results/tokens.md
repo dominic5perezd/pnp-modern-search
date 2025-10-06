@@ -115,3 +115,5 @@ To deal with mutli valued properties (like taxonomy multi or choices SharePoint 
 - Using a page multi values choice property: `{|RefinableStringXX:{Page.myChoiceMultiColumn}}`
 
 At any time, you can see the resolved query using the 'Debug' layout an inspecting the `data.queryModification` property.
+
+<!-- Auto-update: 2025-10-07T06:11:08.205106 -->

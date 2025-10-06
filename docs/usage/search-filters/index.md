@@ -74,3 +74,5 @@ The Search Filter Web Part supports deep linking, meaning you can preselect filt
 
 !!! important
     **We recommend to use the URL generated from filter values selection instead of crafting the URL manually.**
+
+<!-- Auto-update: 2025-10-07T02:56:15.134568 -->
